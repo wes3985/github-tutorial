@@ -1,0 +1,22 @@
+
+# YOUTUBE TUTORIAL WHERE THIS INFO CAME FROM: https://www.youtube.com/watch?v=0fKg7e37bQE
+# command line instructions:
+
+1. navigate to directory using 'cd' and 'dir' on windows cmd
+2. git clone 'https://github.com/wes3985/github-tutorial.git'
+3. cd github-tutorial
+4. git status
+5. make new files/add new files to this folder
+6. makedir test_folder
+7. echo .> test_folder\test.txt
+8. git add test_folder
+9. git status
+10. git commit -m "test.txt added to repository"
+11. The file will be commited on local machine but not on the online repository
+12. git push
+13. go to githib.com and check the repo, refresh browser, you will see the new 'commit' has been 'pushed' to the repo
+14. git pull (when in the correct repo on your local comp will update the local comp directory for the project)
+15.
+
+# EXTRA NOTES:
+# IF YOU COMMIT WITHOUT A MESSAGE AND GET A SCREEN U CAN'T GET OUT OF, OR WANT TO GET OUT OF A COMMIT: 	ESC:WQ
